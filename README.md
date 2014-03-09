@@ -2,6 +2,9 @@
 ## A simple node.js command line tool for dealing with Rackspace's cloud files
 
 
+Documentation is not finished yet, please have patience (•
+
+
 ### Requirements
 Node.js, NPM, Git
 
