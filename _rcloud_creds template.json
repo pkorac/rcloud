@@ -1,0 +1,5 @@
+{
+	"username": "your_username",
+	"apiKey": "your_api_key",
+	"region": "region for example: LON for London or IAD for Nothern Virginia"
+}
